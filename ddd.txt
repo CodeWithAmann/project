@@ -6,11 +6,23 @@ abcdefghijklmnopqrstuvwxyz
 
 
 
-<<<<<<< Updated upstream
 HYYY <<< HELLO <<< EVERYONE HELLO HELLO>
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 HYYY <<< HELLO <<< EVERYONE>
 <<<WELCOME TO THE PAGE OF STYLE
 
 Sout("WELCOME");
+
+
+
+public class A
+{
+	public static void main (String[] args)
+	{
+	    System.out.println("HELLO CODE WITH AMAN");
+	}
+}
 
