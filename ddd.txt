@@ -6,5 +6,10 @@ abcdefghijklmnopqrstuvwxyz
 
 
 
+<<<<<<< Updated upstream
 HYYY <<< HELLO <<< EVERYONE HELLO HELLO>
+=======
+HYYY <<< HELLO <<< EVERYONE>
+<<<WELCOME TO THE PAGE OF STYLE
+>>>>>>> Stashed changes
 
